@@ -50,6 +50,16 @@
         "md5": "b0103a782e1d78414ec35e7a9f133ebb"
     },
     {
+        "path": "08062026-vn-index-lao-doc-tu-do-ap-luc-giai-chap-kich-hoat-thi-truong-buoc-vao-nhip-chinh-sau",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/08062026-vn-index-lao-doc-tu-do-ap-luc-giai-chap-kich-hoat-thi-truong-buoc-vao-nhip-chinh-sau/index.html",
+        "type": "file",
+        "md5": "4288eaed86f1fa3727034942a9f3a9fa"
+    },
+    {
         "path": "10-trai-nghiem-khong-the-bo-lo-khi-kham-pha-thien-duong-bali",
         "type": "directory",
         "md5": false
@@ -307,7 +317,7 @@
     {
         "path": "/authors/banh-mi/index.html",
         "type": "file",
-        "md5": "5c737e7f410eb9858f938b740f4b67cb"
+        "md5": "f016c45632ac3fcdbf4b70cb85f71fc5"
     },
     {
         "path": "authors/banh-mi/page",
@@ -322,7 +332,17 @@
     {
         "path": "/authors/banh-mi/page/10/index.html",
         "type": "file",
-        "md5": "b4cebfedb7cdb35c423aa003a4d316e4"
+        "md5": "a08dc4fbc752adacfce17b8ebd20c10a"
+    },
+    {
+        "path": "authors/banh-mi/page/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/banh-mi/page/11/index.html",
+        "type": "file",
+        "md5": "61b36323514e3a18feaf062a8a0f9554"
     },
     {
         "path": "authors/banh-mi/page/2",
@@ -332,7 +352,7 @@
     {
         "path": "/authors/banh-mi/page/2/index.html",
         "type": "file",
-        "md5": "6b668c0a004374d1d69e8ec6079fbdec"
+        "md5": "bf33f0f39f0bbca9afa55dc58386b93a"
     },
     {
         "path": "authors/banh-mi/page/3",
@@ -342,7 +362,7 @@
     {
         "path": "/authors/banh-mi/page/3/index.html",
         "type": "file",
-        "md5": "b82653b4237d8a31a90bf56cf4bcaeab"
+        "md5": "a5fb0e823dca608eb39b50308c5beb08"
     },
     {
         "path": "authors/banh-mi/page/4",
@@ -352,7 +372,7 @@
     {
         "path": "/authors/banh-mi/page/4/index.html",
         "type": "file",
-        "md5": "ec94eebe102d646ae2822d553288db69"
+        "md5": "2af191b3fa6e31347ddf3b2a56649a34"
     },
     {
         "path": "authors/banh-mi/page/5",
@@ -362,7 +382,7 @@
     {
         "path": "/authors/banh-mi/page/5/index.html",
         "type": "file",
-        "md5": "eea27a85c05a867fb7cb64a5e1caf849"
+        "md5": "f0b1eec5c551ad61960e40f3dd6bdeef"
     },
     {
         "path": "authors/banh-mi/page/6",
@@ -372,7 +392,7 @@
     {
         "path": "/authors/banh-mi/page/6/index.html",
         "type": "file",
-        "md5": "e9f3afc3ee583e2461dac2d76158ce13"
+        "md5": "eedd39e2fdecf30df4452ad6aaeef6cf"
     },
     {
         "path": "authors/banh-mi/page/7",
@@ -382,7 +402,7 @@
     {
         "path": "/authors/banh-mi/page/7/index.html",
         "type": "file",
-        "md5": "0574ff463a5cceb6d269077b7f3756dc"
+        "md5": "3ee6009ffbf5d76344c343a937b4fc01"
     },
     {
         "path": "authors/banh-mi/page/8",
@@ -392,7 +412,7 @@
     {
         "path": "/authors/banh-mi/page/8/index.html",
         "type": "file",
-        "md5": "015f6d542fb3ae52bb1a18bafa33f89c"
+        "md5": "c18aa8847b4f5913abbc862e2531efb6"
     },
     {
         "path": "authors/banh-mi/page/9",
@@ -402,7 +422,7 @@
     {
         "path": "/authors/banh-mi/page/9/index.html",
         "type": "file",
-        "md5": "19ac93e3bcf6bc4483dbbca1ff810e37"
+        "md5": "fe507475750457c7b74ad29d1a772a12"
     },
     {
         "path": "bi-kip-du-lich-mot-minh-tai-da-nang-an-toan-va-thu-vi",
@@ -447,7 +467,7 @@
     {
         "path": "/chuyen-muc/chung-khoan/index.html",
         "type": "file",
-        "md5": "cd4839185bbdafbdbdf5bc7bf5858a82"
+        "md5": "f0a030371149fce68efebee6bd314413"
     },
     {
         "path": "chuyen-muc/chung-khoan/page",
@@ -462,7 +482,7 @@
     {
         "path": "/chuyen-muc/chung-khoan/page/2/index.html",
         "type": "file",
-        "md5": "926759b91fa2a6cd509efc8b441e5835"
+        "md5": "4dc1395dcbc66a0574715c127c84cc90"
     },
     {
         "path": "chuyen-muc/chung-khoan/page/3",
@@ -472,7 +492,7 @@
     {
         "path": "/chuyen-muc/chung-khoan/page/3/index.html",
         "type": "file",
-        "md5": "7cda94a639c851a9f3669b343368c649"
+        "md5": "74b18ca9453f5df9acf88f46b13682c0"
     },
     {
         "path": "chuyen-muc/cong-nghe",
@@ -582,7 +602,7 @@
     {
         "path": "/chuyen-muc/index.html",
         "type": "file",
-        "md5": "9c8cb14b3858810c04a6c1358689b0f0"
+        "md5": "4371dd5733e0d30566dee17d6727aadd"
     },
     {
         "path": "CNAME",
@@ -622,12 +642,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "92dbd020ea27786a4626be0905364819"
+        "md5": "11c2e3fe976e86cc0f84a0dc9bcb841b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ae9e508772da789bdd1da62d72347074"
+        "md5": "e4e8a28b0f28d706a7fe17440fdbabe6"
     },
     {
         "path": "goi-y-du-lich-kham-pha-bien-quy-nhon-tu-sai-gon-voi-chi-phi-cuc-thap",
@@ -672,7 +692,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "991d98e1036de741acda68524982bae0"
+        "md5": "e1363324dee7639e77afee78c8dcf195"
     },
     {
         "path": "kham-pha-dao-jeju-tuyet-dep-cua-han-quoc-ma-khong-can-visa",
@@ -11870,6 +11890,51 @@
         "md5": "94918f0e1fd6abf8b0e38f1ebd28ae00"
     },
     {
+        "path": "media/posts/53",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/53/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/53/responsive/stock-2xl.webp",
+        "type": "file",
+        "md5": "35fd4985e6c8d89d8f2c86fa77538863"
+    },
+    {
+        "path": "/media/posts/53/responsive/stock-lg.webp",
+        "type": "file",
+        "md5": "6124952f88dc8f620d7055a0f70cc6a2"
+    },
+    {
+        "path": "/media/posts/53/responsive/stock-md.webp",
+        "type": "file",
+        "md5": "4fd95402a3f33181eb388cc114de8415"
+    },
+    {
+        "path": "/media/posts/53/responsive/stock-sm.webp",
+        "type": "file",
+        "md5": "1dc6431db57e3ff9f07d4b33411ed69e"
+    },
+    {
+        "path": "/media/posts/53/responsive/stock-xl.webp",
+        "type": "file",
+        "md5": "ae285dd38a2a45240bf0918b541c7e21"
+    },
+    {
+        "path": "/media/posts/53/responsive/stock-xs.webp",
+        "type": "file",
+        "md5": "0c75e369ac369252a11e054afa3efb10"
+    },
+    {
+        "path": "/media/posts/53/stock.jpg",
+        "type": "file",
+        "md5": "94918f0e1fd6abf8b0e38f1ebd28ae00"
+    },
+    {
         "path": "media/posts/6",
         "type": "directory",
         "md5": false
@@ -13092,7 +13157,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "9634e3afd52635e33518281689fcd069"
+        "md5": "ab3150fad9843f654c70364fbd2b81ce"
     },
     {
         "path": "page/3",
@@ -13102,7 +13167,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "f7bc8a382c1c0bc2a7c14434aaf54960"
+        "md5": "5f5e2891aae169b5f66474c248718b04"
     },
     {
         "path": "page/4",
@@ -13112,7 +13177,7 @@
     {
         "path": "/page/4/index.html",
         "type": "file",
-        "md5": "67035238db8cef01dcc7e94883d1a3e8"
+        "md5": "590209166592760695357c191b2c8c86"
     },
     {
         "path": "page/5",
@@ -13122,7 +13187,7 @@
     {
         "path": "/page/5/index.html",
         "type": "file",
-        "md5": "92af21794c0976cf3093d8cbd8478071"
+        "md5": "7cff0f72d51136e46a063d79ffa24f32"
     },
     {
         "path": "page/6",
@@ -13132,7 +13197,7 @@
     {
         "path": "/page/6/index.html",
         "type": "file",
-        "md5": "1085732934d655abe45871af9e4e1ff0"
+        "md5": "e77af94071e088fbcb31e7e5d8b9275b"
     },
     {
         "path": "page/7",
@@ -13142,7 +13207,7 @@
     {
         "path": "/page/7/index.html",
         "type": "file",
-        "md5": "544b428fab442dcf8b11d9407fe4b5bd"
+        "md5": "df3c9cef1a16b262aef5443c4a2a14b7"
     },
     {
         "path": "page/8",
@@ -13152,7 +13217,7 @@
     {
         "path": "/page/8/index.html",
         "type": "file",
-        "md5": "6e46daf7a5a9cf74080f88b30b0390a7"
+        "md5": "333a3eb490eed1844af2eb7de735ee17"
     },
     {
         "path": "page/9",
@@ -13162,7 +13227,7 @@
     {
         "path": "/page/9/index.html",
         "type": "file",
-        "md5": "fd339b43b324c1531e6360248dd2920f"
+        "md5": "b3fe43cb4fe3fb1dccf2141a5a5724dc"
     },
     {
         "path": "phan-1-wordpress-va-hanh-trinh-20-nam",
@@ -13192,7 +13257,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "527cdfabd602b78792f1bf9399ddb0c0"
+        "md5": "257d42615dc959f7c5d81486ffdf4cfb"
     },
     {
         "path": "sitemap.xsl",
